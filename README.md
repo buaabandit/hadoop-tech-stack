@@ -6,3 +6,5 @@ hadoop技术栈包含分布式存储、分布式计算，从hdfs，mapreduce衍�
 ## Spark Archetecture[https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-architecture.html]
 
 ## Parquet Paper [https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36632.pdf]
+
+## MapReduce Shuffle [http://matt33.com/2016/03/02/hadoop-shuffle/]
