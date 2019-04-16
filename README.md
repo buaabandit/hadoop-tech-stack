@@ -9,4 +9,4 @@ hadoop技术栈包含分布式存储、分布式计算，从hdfs，mapreduce衍�
 
 ## MapReduce Shuffle [http://matt33.com/2016/03/02/hadoop-shuffle/]
 
-## Spark Shuffle [http://sharkdtu.com/posts/spark-shuffle.html]
+## Spark Shuffle [http://sharkdtu.com/posts/spark-shuffle.html] [https://blog.csdn.net/u011564172/article/details/72763978]
