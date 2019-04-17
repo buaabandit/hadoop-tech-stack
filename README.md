@@ -14,3 +14,5 @@ hadoop技术栈包含分布式存储、分布式计算，从hdfs，mapreduce衍�
 ## Spark Usage of Memory [https://tech.youzan.com/spark_memory_1/]
 
 ## Spark Scheduler [http://sharkdtu.com/posts/spark-scheduler.html]
+
+## Spark Shuffle Service [https://www.waitingforcode.com/apache-spark/external-shuffle-service-apache-spark/read]
