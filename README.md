@@ -21,3 +21,7 @@ hadoop技术栈包含分布式存储、分布式计算，从hdfs，mapreduce衍�
 # JVM
 ## https://crowhawk.github.io/2017/08/15/jvm_3/
 ## http://blog.jobbole.com/109170/
+
+
+# AI
+## http://fancyerii.github.io/2019/03/14/dl-book/
