@@ -25,3 +25,10 @@ hadoop技术栈包含分布式存储、分布式计算，从hdfs，mapreduce衍�
 
 # AI
 ## http://fancyerii.github.io/2019/03/14/dl-book/
+
+
+# Compute Ad
+## https://www.jiqizhixin.com/articles/2019-04-01-10
+## https://zhuanlan.zhihu.com/p/20731808
+## https://www.jianshu.com/p/d616cbcc8666
+## RTB系统 [https://www.jianshu.com/p/aa9a3371d598] [http://tech.youmi.net/2016/06/158883267.html]
